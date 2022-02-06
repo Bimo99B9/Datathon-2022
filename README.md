@@ -4,4 +4,4 @@ In this repository you can find my files of the proposed solution for the Merkle
 
 ---
 
-![[/assets/prize.jpg]]
+![](/assets/prize.jpg)
